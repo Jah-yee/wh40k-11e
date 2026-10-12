@@ -94689,7 +94689,7 @@
                 "characteristics": [
                   {
                     "name": "Description",
-                    "$text": "When selecting Agendas for a battle, if your Crusade force is embarking on an Oathsworn Campaign, you can select on additional **^^Black Templars^^** Agenda for that battle in addition to any others being used in that battle. In addition, if you are using the Oaths of Crusade Bonus Agenda, if you are randomly generating that Bonus Agenda, you re-roll each D6 when determining Deeds, Foes, Passions and Conditions.",
+                    "$text": "When selecting Agendas for a battle, if your Crusade force is embarking on an Oathsworn Campaign, you can select one additional **^^Black Templars^^** Agenda for that battle in addition to any others being used in that battle. In addition, if you are using the Oaths of Crusade Bonus Agenda, if you are randomly generating that Bonus Agenda, you re-roll each D6 when determining Deeds, Foes, Passions and Conditions.",
                     "typeId": "9b8f-694b-e5e-b573"
                   }
                 ]
